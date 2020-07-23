@@ -1,0 +1,2 @@
+gpupdate /sync
+gpupdate /force
